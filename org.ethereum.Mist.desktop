@@ -6,4 +6,4 @@ Comment=The Mist browser is the tool of choice to browse and use Ðapps
 Keywords=ethereum;crypto;coin;currency
 Exec=mist
 Icon=org.ethereum.Mist
-Categories=Internet;P2P;WebBrowser;Finance
+Categories=Network;P2P;WebBrowser;Finance
