@@ -26,13 +26,14 @@
                 "install -Dm644 org.ethereum.Mist.appdata.xml /app/share/appdata/org.ethereum.Mist.appdata.xml",
                 "install -Dm644 icon.png /app/share/icons/hicolor/256x256/apps/org.ethereum.Mist.png",
                 "install -D mist /app/bin/mist",
+		"rm -f mist",
 
-                "unzip Mist-*.zip",
+                "unzip -d unpacked Mist-*.zip",
                 "install -d /app/share/Mist",
-                "cp -a linux*-unpacked/* /app/share/Mist"
+                "cp -a unpacked/* /app/share/Mist"
             ],
             "sources": [
-                {
+		{
                     "type": "script",
                     "dest-filename": "mist",
                     "commands": [
