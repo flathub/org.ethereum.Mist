@@ -41,14 +41,14 @@
                 },
                 {
                     "type": "file",
-                    "url": "https://github.com/ethereum/mist/releases/download/v0.9.3/Mist-linux64-0-9-3.zip",
-                    "sha256": "62f4ea2207e7d0f661683b72acdb46d3ff36958b779e023411988d929b98d77a",
+                    "url": "https://github.com/ethereum/mist/releases/download/v0.10.0/Mist-linux64-0-10-0.zip",
+                    "sha256": "f127e5cf6aa87d26c66c3e4d338a50d37670158fba496b44731dbae68e3c6106",
                     "only-arches": ["x86_64"]
                 },
                 {
                     "type": "file",
-                    "url": "https://github.com/ethereum/mist/releases/download/v0.9.3/Mist-linux32-0-9-3.zip",
-                    "sha256": "a3fd569d6916e819b3c21b65daddef2f3840d6edba2602c0125f6701f5f8833e",
+                    "url": "https://github.com/ethereum/mist/releases/download/v0.10.0/Mist-linux32-0-10-0.zip",
+                    "sha256": "930aa994b45d7b29f12254cad04e966e5e95f543c137a937bf42149e2aed1b06",
                     "only-arches": ["i386"]
                 },
                 {
