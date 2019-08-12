@@ -20,5 +20,8 @@
     <releases>
         <release version="0.11.1" date="2018-06-23"></release>
     </releases>
+
+    <content_rating type="oars-1.1" />
+
     <update_contact>rushsteve1_at_teknik.io</update_contact>
 </component>
